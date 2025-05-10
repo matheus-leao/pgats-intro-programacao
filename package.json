@@ -1,0 +1,20 @@
+{
+  "name": "pgats-intro-programacao",
+  "version": "1.0.0",
+  "description": "Project to the discipline of Programing introduction on Pos Graduacao em Automacao de Testes",
+  "homepage": "https://github.com/matheus-leao/pgats-intro-programacao#readme",
+  "bugs": {
+    "url": "https://github.com/matheus-leao/pgats-intro-programacao/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-leao/pgats-intro-programacao.git"
+  },
+  "license": "ISC",
+  "author": "Matheus Leao",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
